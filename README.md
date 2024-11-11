@@ -1,4 +1,4 @@
-# Project Name
+# Booking Management
 
 A full-stack Booking Management web application that combines a React.js-based frontend and a Node.js/Express.js-powered backend.
 
